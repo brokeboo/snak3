@@ -1,0 +1,4 @@
+C:\Users\37255\source\repos\snak3\snak3\obj\Debug\netcoreapp3.1\snak3.csprojAssemblyReference.cache
+C:\Users\37255\source\repos\snak3\snak3\obj\Debug\netcoreapp3.1\snak3.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\snak3\snak3\obj\Debug\netcoreapp3.1\snak3.AssemblyInfo.cs
+C:\Users\37255\source\repos\snak3\snak3\obj\Debug\netcoreapp3.1\snak3.csproj.CoreCompileInputs.cache
